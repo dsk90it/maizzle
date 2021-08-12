@@ -1,4 +1,4 @@
-## ✉️ Building email newsletters with Maizzle
+## ✉️ Building HTML emails with Maizzle
 
 [Maizzle](https://maizzle.com/) is a framework that helps you quickly build HTML emails with [Tailwind CSS](https://tailwindcss.com/).
 
