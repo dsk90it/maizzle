@@ -1,0 +1,16 @@
+# DEPS
+node_modules
+
+# BUILD FOLDERS
+build_*
+
+# IDE
+.vscode
+
+# OS
+.DS_Store
+Thumbs.db
+
+# LOGS
+npm-debug.log
+yarn-error.log
