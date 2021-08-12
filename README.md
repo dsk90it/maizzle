@@ -1,10 +1,8 @@
-# Building emails with [Maizzle](https://maizzle.com/)
+## ✉️ Building email newsletters with Maizzle
 
-## About
+[Maizzle](https://maizzle.com/) is a framework that helps you quickly build HTML emails with [Tailwind CSS](https://tailwindcss.com/).
 
-- [Maizzle](https://maizzle.com/) is a framework that helps you quickly build HTML emails with [Tailwind CSS](https://tailwindcss.com/).
-
-## Getting Started
+## ⚙ Installation
 
 ```sh
 # install yarn globally
